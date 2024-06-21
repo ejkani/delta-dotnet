@@ -18,6 +18,10 @@ The bridge library incorporates delta-rs and [tokio-rs](https://tokio.rs/) as sh
 
 ## Quick Start
 
+1) Install C++ build tools if needed
+   - `Visual Studio Installer` -> `Modify` -> Check `Desktop Development with C++` -> `Confirm modification`
+2) Install `rust`: <https://www.rust-lang.org/tools/install>
+
 ```csharp
 using System.Collections.Generic;
 using System.Linq;
